@@ -60,42 +60,64 @@ Respuesta: Las cookies son pequeños fragmentos de texto que los sitios web que 
 Permiten que los sitios web recuerden información sobre tu visita, lo que puede hacer que sea más fácil volver
 a visitar los sitios y hacer que estos te resulten más útiles.
 
-13. ¿Cuales son los 2 tipos de Encabezados HTTP se utilizan para la protección de contenido web? (3 puntos)
+13. ¿Cuales son los 2 tipos de Encabezados HTTP se utilizan para la proteccion de contenido web? (3 puntos)
+Respuesta: Cabecera de respuesta: Cabeceras que contienen más información sobre el contenido,
+como su origen o el servidor (nombre, versión, etc.).
+Cabecera de entidad: Cabeceras que contienen más información sobre el cuerpo de la entidad, 
+como el tamaño del contenido o su tipo MIME.
 
-Respuesta:
 14. ¿Qué función cumple el Content Security Policy (CSP)? (3 puntos)
+Respuesta: Una directiva de seguridad de contenido (CSP) es una función de seguridad
+que ayuda a evitar ataques de secuencias de comandos entre sitios (XSS).
 
-Respuesta:
 15. ¿Qué es el "XSS" y cómo se relaciona con los Encabezados HTTP? (4 puntos)
+Respuesta: El XSS es una vulnerabilidad de seguridad común en aplicaciones web que permite a los atacantes
+inyectar y ejecutar código malicioso en las páginas web vistas por otros usuarios.
 
-Respuesta:
 16. (*) ¿Qué encabezado ayuda al rendimiento de una página web? (3 puntos)
+Respuesta: Los encabezados de seguridad HTTP son encabezados que le permiten indicar
+al navegador de su cliente cómo debe comportarse al manejar el contenido de su sitio .
 
-Respuesta:
 17. ¿Cómo se identifican los Encabezados HTTP antes del 2012? (2 puntos)
+Respuesta: Lo que se requiere hacer es estar abriendo la pestaña Encabezados y desplácese hacia abajo hasta las secciones General,
+Encabezados de respuesta, Encabezados de solicitud y, opcionalmente, tambien se identifican 
+ permitiendo al cliente y al servidor enviar información adicional junto a una petición o respuesta.
 
-Respuesta:
 18. (*) ¿Qué es SEO en el contexto de la web? (2 puntos)
+Respuesta: SEO es la sigla para Search Engine Optimization, que significa "optimización para motores de búsqueda".
 
-Respuesta:
 19. ¿Cuál es el atajo del teclado (shortcut) para acceder al inspector de elementos en el navegador? (1 punto)
+Respuesta: Para inspeccionar fácilmente un elemento en Chrome, haz clic derecho en un elemento de la página y selecciona 
+Inspeccionar o utiliza el atajo de teclado Ctrl+Shift+C para Windows y Command+Shift+C para Mac.
 
-Respuesta:
 20. ¿Qué significa "HTTP" en las siglas de Encabezados HTTP? (1 punto)
+Respuesta: HTTP, de sus siglas en inglés: "Hypertext Transfer Protocol",
+es el nombre de un protocolo el cual nos permite realizar una petición de datos y recursos
 
-Respuesta:
 21. (*) ¿Cuál es la diferencia entre los encabezados HTTP y los encabezados HTTPS? (4 puntos)
+Respuesta: La diferencia más importante entre ambos es que este último utiliza SSL/TLS para cifrar
+las conexiones entre los navegadores y los servidores.
 
-Respuesta:
 22. (*) ¿Cuáles son los tipos de métodos HTTP qué mas se utilizan? (mencione al menos 5) (4 puntos)
+Respuesta: GET: Es el método de petición HTTP más utilizado con diferencia. 
+HEAD: Con una petición HEAD, sólo recibes la información de la cabecera de la página que quieres cargar. 
+POST: Tu navegador utiliza el método de petición HTTP POST cuando necesita enviar datos al servidor.
+PUT: Las peticiones PUT tienen una funcionalidad similar a la del método POST. 
+PATCH: Es el que aplica modificaciones parciales a un recurso. 
 
-Respuesta:
 23. (*) ¿Qué permiten hacer las herramientas de desarrollo del navegador con respecto a los encabezados HTTP? (4 puntos)
+Respuesta: Las Herramientas para desarrolladores nos permiten editar páginas sobre la marcha y diagnosticar problemas con rapidez,
+lo que te ayuda a crear mejores sitios web en menos tiempo.
 
-Respuesta:
 24. (*) ¿Qué es un "Proxy" y cómo se relaciona con los Encabezados HTTP? (4 puntos)
+Respuesta: Un servidor proxy proporciona una puerta de enlace entre los usuarios e Internet. Es un servidor denominado 
+“intermediario”, porque está entre los usuarios finales y las páginas web que visitan en línea. 
 
-Respuesta:
 25. (*) ¿Cómo se pueden usar los Encabezados HTTP para optimizar el SEO de un sitio web? (4 puntos)
-
+Respuesta: 5 ideas para optimizar los encabezados del sitio web:
+- Incluye la palabra clave en el encabezados H1. 
+- Escribe tus títulos de forma sencilla y natural.
+- Solo debe haber una etiqueta H1 por URL.
+- No repitas el mismo encabezado H1 en más de una URL de la web.
+- Utiliza tantos encabezados H2 como sean necesarios.
 Respuesta:
